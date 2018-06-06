@@ -1,0 +1,4 @@
+21.NLP - Sentence Paragraph Similarity
+
+This repository shows us how to compute similarity between a Sentence and few paragraphs. 
+This also explains how to point to a particular paragraph in a document from where the question was asked.
